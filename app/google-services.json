@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416307077094",
+    "project_id": "posture-perfect-pillow",
+    "storage_bucket": "posture-perfect-pillow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416307077094:android:ccec37cfa8f84db2690027",
+        "android_client_info": {
+          "package_name": "com.example.finalyearproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcCcpvr6PWIPVG3GBhQjkG8j_EXXgYcPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
